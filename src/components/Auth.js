@@ -16,7 +16,7 @@ function AuthForm (){
       return (
       <div>        
             <Form className="authForm">
-            <h1>Login Formmmm </h1>
+            <h1>Login Form </h1>
                 <Form.Group controlId="formBasicEmail">
                     <Form.Control type="email" placeholder="Email address" />
                 </Form.Group>
